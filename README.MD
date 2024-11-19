@@ -5,8 +5,6 @@ Este projeto apresenta um eBook completo sobre cuidados com a pele, criado utili
 
 O eBook aborda tópicos desde conceitos básicos até técnicas avançadas de skincare, tudo isso enriquecido com ilustrações geradas por IA.
 
-## 📕 Clique aqui para baixar o eBook completo
-
 ## 💻 Tecnologias Utilizadas
 
 ChatGPT: Para gerar o conteúdo textual de cada capítulo.
