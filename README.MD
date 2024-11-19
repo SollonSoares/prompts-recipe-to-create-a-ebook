@@ -29,11 +29,14 @@ Capítulos	Minimalistic illustrations representing skincare routines, hydration,
 Ebook Digital: Conteúdo educativo gerado com IA.
 Imagens Exclusivas: Ilustrações feitas com DALL-E.
 Prático e Acessível: Um guia para todos os níveis de conhecimento em skincare.
+
 📚 Materiais
+
 Todas as imagens estão disponíveis na pasta assets.
 O eBook gerado está disponível no seguinte link:
 
-📕 Baixe o eBook Aqui
+📕 [Baixe o eBook Aqui](https://drive.google.com/file/d/1Gj-RTeBDEhbB605QPnUthpAXLcaZnLN1/view?usp=sharing)
+
 
 
 🛠️ Como Reproduzir Este Projeto
