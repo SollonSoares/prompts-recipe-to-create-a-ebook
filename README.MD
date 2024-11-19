@@ -1,5 +1,5 @@
 # Pele Saudável: Criado com IA – Da Simplicidade ao Avançado
-<p align="center"> <img width="400" src=".github/assets/cover.png"> </p>
+
 ## 📒 Descrição
 Este projeto apresenta um eBook completo sobre cuidados com a pele, criado utilizando ferramentas de IA generativa. O objetivo é mostrar como tecnologias avançadas podem ser usadas para produzir conteúdos educativos e visuais de alta qualidade.
 
