@@ -38,4 +38,4 @@ Compile o texto e as imagens usando uma ferramenta como FPDF (Python) ou softwar
 Publicação:
 Disponibilize o eBook em um link acessível, como Google Drive.
 👨‍💻 Autor
-<p align="center"> <img width="80" src="https://avatars.githubusercontent.com/u/37452836?v=4"> </p> <p align="center"> Felipe Aguiar <br> <a href="https://github.com/felipeAguiarCode">GitHub</a> | <a href="https://linkedin.com/in/felipe-exe">LinkedIn</a> | <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a> </p>
+Sóllon Rodrigues Soares
